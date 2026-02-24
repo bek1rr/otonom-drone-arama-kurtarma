@@ -1,0 +1,11 @@
+# Temel kütüphaneler
+numpy>=1.21.0
+opencv-python>=4.5.0
+onnxruntime>=1.12.0
+airsim>=1.6.0
+
+# Raporlama için
+fpdf2>=2.7.0          # PDF oluşturma
+folium>=0.14.0        # Harita görselleştirme
+pillow>=9.0.0         # Görüntü işleme
+jinja2>=3.0.0         # HTML şablonları
